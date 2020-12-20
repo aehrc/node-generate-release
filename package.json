@@ -91,8 +91,8 @@
     "glob": "^7.1.2",
     "iniparser": "^1.0.5",
     "inquirer": "^3.3.0",
-    "minimist": "^1.2.0",
-    "observatory": "^1.0.0",
+    "minimist": "^1.2.5",
+    "observatory": "https://github.com/aehrc/observatory/tarball/f2a60aafbe9c9d289bd06929416411df0f8b6901",
     "rimraf": "^2.6.2",
     "temp": "^0.8.3",
     "xtend": "^4.0.1"
